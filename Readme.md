@@ -10,7 +10,7 @@ This project was built with
 
 Movie api was fetched from https://developers.themoviedb.org/3/getting-started/introduction
 
-##Users can
+## Users can
 
 1. search for a movie by title of the movie.
 
@@ -20,4 +20,4 @@ Movie api was fetched from https://developers.themoviedb.org/3/getting-started/i
 
 4. This app is fully responsive.
 
-### Live demo
+### Live demo https://thatseogirl.github.io/movie-app/
